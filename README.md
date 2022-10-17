@@ -61,25 +61,9 @@ Presentations                        | December 13th, 2022 at 2:30pm
 -----------------------------        | ---------------------------------------------------------------------
 Final Submission                     | December 16th, 2022 at midnight
 
-## Table of Contents
-
-- [Summary](#summary)
-
-- [Objectives](#objectives)
-
-- [Code of Conduct](#code-of-conduct)
-
-- [Process](#process)
-
-- [Requirements](#Requirements)
-
-- [Assessment](#assessment)
-
-- [Receiving Assistance](receiving-assistance)
-
 ## Summary
 
-In this long-term project, you will design, develop, and release a plugin for the [SheetShuttle](https://github.com/GatorEducator/SheetShuttle) according to the requirements of the clients (faculty). To receive full points for this assignment, you must have a fully functional, tested, client-approved, documented, and released plugin by the project's final due date. To achieve this, you must work through multiple iterations with your team, utilizing GitHub issue tracker, creating multiple pull requests, and going through multiple review iterations (sprints) with our technical leaders and volunteer alumni reviewers. As part of this assignment, for each sprint, you are also required to answer all of the questions in each sprint's report file, located in the `/writing` directory, furnishing evidence of your contributions to that sprint's effort towards completing the long-term software engineering project. Before the due date for this project assignment's each deliverable, please ensure that:
+In this long-term project, you will design, develop, and release **at least one** plugin for the [SheetShuttle](https://github.com/GatorEducator/SheetShuttle) according to the requirements of the clients (faculty). To receive full points for this assignment, you must have a fully functional, tested, client-approved, documented, and released plugin by the project's final due date. To achieve this, you must work through multiple iterations with your team, utilizing GitHub issue tracker, creating multiple pull requests, and going through multiple review iterations (sprints) with our technical leaders and volunteer alumni reviewers. As part of this assignment, for each sprint, you are also required to answer all of the questions in each sprint's report file, located in the `/writing` directory, furnishing evidence of your contributions to that sprint's effort towards completing the long-term software engineering project. Before the due date for this project assignment's each deliverable, please ensure that:
 
 - You are able use the GitHub flow model to collaboratively engineer, deliver, and evaluate a software product.
 
@@ -101,7 +85,7 @@ Please note that if you took a role of a **scrum lead**, although you are expect
 
 - To practice organizing teams and team roles during a long-term software engineering project.
 
-- To experience project engineering process by creating a new tool, a plugin for SheetShuttle, based on client requirements.
+- To experience a full project engineering process by creating a new tool, a plugin for SheetShuttle, based on client requirements.
 
 - To further practice scrum agile methodology in the long-term software engineer project.
 
@@ -121,7 +105,7 @@ Throughout the completion of this software engineering project you must adhere t
 
 ## Process
 
-To facilitate collaboration, the class will be split into teams of four/five students each. Your team will be responsible for at least one plugin for the SheetShuttle.
+To facilitate collaboration, the class will be split into teams of four/five students each. Your team will be responsible for **at least one** plugin for the SheetShuttle.
 
 Each team will be randomly assigned to the client. Collaborating with the client, teams will first need to design user stories, write out [acceptance criteria](https://rubygarage.org/blog/clear-acceptance-criteria-and-why-its-important) for the user stories, and then work as a team to create requirements or tasks from these user stories as GitHub issues. Each team should create a repository for the team's plugin in the course's GitHub organization, create issues from the requirements of the project, and set up the project board that correctly includes the issues for the project.
 
@@ -149,9 +133,9 @@ During stand-up meetings, each team member should take one or two minutes to ans
 
 ### Team Presentation
 
-At the end of this short-term project, your team will prepare an 8-to-10-minute presentation to showcase your team's work on SheetShuttle. This presentation will be followed by a 5-minute question and answer (Q & A) session. Your presentation should include:
+At the end of this long-term project, your team will prepare an 8-to-10-minute presentation to showcase your team's work on the plugin(s) for SheetShuttle. This presentation will be followed by a 5-minute question and answer (Q & A) session. Your presentation should include:
 
-- Overview of Work: a high-level description of your team's work on the issue.
+- Overview of Work: a high-level description of your team's plugin.
 - Technical Details: technical details such as any notable dependencies or tools used and why your team chose them over other comparable tools, implementation challenge that your team faced and how you overcame it, or testing challenge that your team faced and how you overcame it.
 - Demonstration: as relevant to the issue that each team takes up.
 
@@ -172,7 +156,7 @@ During sprint retrospective meetings, your team should engage in the following a
 
 ## Requirements
 
-In this long-term project, you are required to design, implement, test, and deploy a plugin for [SheetShuttle](https://github.com/GatorEducator/SheetShuttle) according to the specifications of the client. Additionally, your plugin must satisfy the following requirements:
+In this long-term project, you are required to design, implement, test, and deploy at least one plugin for [SheetShuttle](https://github.com/GatorEducator/SheetShuttle) according to the specifications of the client. Additionally, your plugin must satisfy the following requirements:
 
 - contain extensive testing with a high code coverage, ideally 100% or close to it. Teams are encouraged to practice test-driven approach, where you write a test case and then writing the code for that test case.
 - include Continuous Integration using GitHub Actions that at the minimum runs the plugin, runs the test suite, and any linters as appropriate. Additionally, README should include badges that show status of GitHub Actions CI builds and project characteristics (e.g., coverage and language).
