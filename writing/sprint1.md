@@ -1,21 +1,6 @@
-# Report on Project 1: Contributing to SheetShuttle
+# Report on Project 2 Sprint 1
 
 ## Reflection by Add Your Team Names Here
-
-## Summary Task List for the Project 1 Assignment
-
-TODO: add x inside [ ] for completed tasks
-
-- [ ] Built and used the current version of SheetShuttle.
-- [ ] Used GitHub project board.
-- [ ] Participated in sprint review.
-- [ ] Participated in sprint retrospective.
-- [ ] Participated in all three scrum meetings.
-- [ ] Contributed to the GitHub Issue Tracker. Specifically, worked as a team to solve one issue from the SheetShuttle's issue tracker.
-- [ ] Contributed to the GitHub Pull Requests (this effort should be made by a team as a whole).
-- [ ] Had a pull request accepted and merged into SheetShuttle's main branch.
-- [ ] Participated in retrospective.
-- [ ] Completed all writing tasks in the report document.
 
 ## Did you follow the code of conduct during the completion of this project?
 
@@ -23,7 +8,7 @@ TODO: Please answer yes or no to this question. Then, every member needs to sign
 
 ## Sprint Planning
 
-TODO: Please provide a summary of tasks your team decided to tackle during the sprint and indicate each team member's specific tasks. Please specify the issue(s) by their number in the SheetShuttle GitHub issue tracker.
+TODO: Please provide a summary of tasks your team decided to tackle during the sprint and indicate each team member's specific tasks. Please specify the issue(s) by their number in your project's GitHub issue tracker.
 
 ## Scrum Meetings
 
@@ -53,6 +38,12 @@ TODO: Please provide answers to the three stand-up meeting questions from each t
 - What will you do before the next meeting?
 - Are there any obstacles in your way?
 
+### Stand-Up Meeting Five (Date)
+
+- What did you since last meeting?
+- What will you do before the next meeting?
+- Are there any obstacles in your way?
+
 ## Sprint Review and Retrospective
 
 ### Sprint review
@@ -77,19 +68,21 @@ TODO: If you were a scrum lead, please briefly describe your contributions relat
 
 ## At a high level, what were the most important professional tasks that your team completed?
 
-TODO: 
+TODO:
+
 - First task
 - Second task
 - Third task
 
 ## At a high level, what were the most important technical tasks that your team completed?
 
-TODO: 
+TODO:
+
 - First task
 - Second task
 - Third task
 
-## After completing this week of the project, what is a task that you want to practice more? Why?
+## After completing this sprint of the project, what is a task that you want to practice more? Why?
 
 TODO: Please provide a response to this question.
 
