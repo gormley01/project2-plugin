@@ -30,8 +30,8 @@
 
 Activity                             | Deadline
 ------------------------------------ | ---------------------------------------------------------------------
-User Stories & Requirements (issues) | by October 25th, 2022 at 2:30pm
-Sprint 1 Planning                    | October 25th, 2022 at 4:20pm
+User Stories & Requirements (issues) | by October 25th, 2022 at midnight
+Sprint 1 Planning                    | October 25th, 2022 at midnight
 Sprint 1 Stand-up meeting 1          | October 27th during class
 Sprint 1 Stand-up meeting 2          | November 1st during lab
 Sprint 1 Stand-up meeting 3          | November 3rd during class
