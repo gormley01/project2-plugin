@@ -1,13 +1,43 @@
 # check the technical writing for various characteristics
-- writing/report.md:
-  - description: Ensure that report.md file exists in the writing/ directory
+- writing/sprint1_report.md:
+  - description: Ensure that sprint1_report.md file exists in the writing/ directory
     check: ConfirmFileExists
-  - description: Write a minimum number of meaningful words (300) in the reflection
+  - description: Write a minimum number of meaningful words (300) in the sprint 1 report
     check: CountFileWords
     options:
-      count: 600
+      count: 300
       exact: false
-  - description: Complete all TODOs, remove the TODO markers in the reflection.md
+  - description: Complete all TODOs, remove the TODO markers in the sprint1_report.md
+    check: MatchFileFragment
+    options:
+      fragment: TODO
+      count: 0
+      exact: true
+
+- writing/sprint2_report.md:
+  - description: Ensure that sprint2_report.md file exists in the writing/ directory
+    check: ConfirmFileExists
+  - description: Write a minimum number of meaningful words (300) in the sprint 2 report
+    check: CountFileWords
+    options:
+      count: 300
+      exact: false
+  - description: Complete all TODOs, remove the TODO markers in the sprint2_report.md
+    check: MatchFileFragment
+    options:
+      fragment: TODO
+      count: 0
+      exact: true
+
+- writing/sprint3_report.md:
+  - description: Ensure that sprint3_report.md file exists in the writing/ directory
+    check: ConfirmFileExists
+  - description: Write a minimum number of meaningful words (300) in the sprint 3 report
+    check: CountFileWords
+    options:
+      count: 300
+      exact: false
+  - description: Complete all TODOs, remove the TODO markers in the sprint3_report.md
     check: MatchFileFragment
     options:
       fragment: TODO
@@ -15,7 +45,7 @@
       exact: true
 
 # count number of commits in the GitHub repository
-- description: Have at least a specific minimum number of commits (6) in repository
+- description: Have at least a specific minimum number of commits (30) in repository
   check: CountCommits
   options:
-    count: 1
+    count: 30
