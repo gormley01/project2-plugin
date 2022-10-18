@@ -30,8 +30,8 @@ Sprint 1 Stand-up meeting 2          | November 1st during lab
 Sprint 1 Stand-up meeting 3          | November 3rd during class
 Sprint 1 Stand-up meeting 4          | On your own time (must be spread out between other stand-up meetings)
 Sprint 1 Stand-up meeting 5          | On your own time (must be spread out between other stand-up meetings)
-Sprint Review                        | November 8th, 2022 at 2:30pm
-Sprint Retrospective                 | November 8th, 2022 at 2:30pm
+Sprint 1 Review                        | November 8th, 2022 at 2:30pm
+Sprint 1 Retrospective                 | November 8th, 2022 at 2:30pm
 -----------------------------        | ---------------------------------------------------------------------
 Sprint 2 Planning                    | November 8th, 2022 at 4:20pm
 Sprint 2 Stand-up meeting 1          | November 10th during class
