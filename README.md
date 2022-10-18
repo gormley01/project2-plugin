@@ -3,19 +3,12 @@
 ## Table of Contents
 
 - [Timeline](#timeline)
-
 - [Summary](#summary)
-
 - [Objectives](#objectives)
-
 - [Code of Conduct](#code-of-conduct)
-
 - [Process](#process)
-
 - [Requirements](#requirements)
-
 - [Assessment](#assessment)
-
 - [Receiving Assistance](receiving-assistance)
 
 ## Timeline
