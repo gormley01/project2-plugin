@@ -124,14 +124,6 @@ During stand-up meetings, each team member should take one or two minutes to ans
 2. What will I work on until the next stand-up?
 3. Am I blocked by anything?
 
-### Team Presentation
-
-At the end of this long-term project, your team will prepare an 8-to-10-minute presentation to showcase your team's work on the plugin(s) for SheetShuttle. This presentation will be followed by a 5-minute question and answer (Q & A) session. Your presentation should include:
-
-- Overview of Work: a high-level description of your team's plugin.
-- Technical Details: technical details such as any notable dependencies or tools used and why your team chose them over other comparable tools, implementation challenge that your team faced and how you overcame it, or testing challenge that your team faced and how you overcame it.
-- Demonstration: as relevant to the issue that each team takes up.
-
 ### Sprint Review
 
 During sprint review meetings, your team should engage in the following activities:
@@ -147,6 +139,14 @@ During sprint retrospective meetings, your team should engage in the following a
 - Discuss what went well during the sprint.
 - Discuss what your team wants to do differently during the next sprint.
 
+### Team Presentation
+
+At the end of this long-term project, your team will prepare an 8-to-10-minute presentation to showcase your team's work on the plugin(s) for SheetShuttle. This presentation will be followed by a 5-minute question and answer (Q & A) session. Your presentation should include:
+
+- Overview of Work: a high-level description of your team's plugin.
+- Technical Details: technical details such as any notable dependencies or tools used and why your team chose them over other comparable tools, implementation challenge that your team faced and how you overcame it, or testing challenge that your team faced and how you overcame it.
+- Demonstration: as relevant to the issue that each team takes up.
+
 ## Requirements
 
 In this long-term project, you are required to design, implement, test, and deploy at least one plugin for [SheetShuttle](https://github.com/GatorEducator/SheetShuttle) according to the specifications of the client. Additionally, your plugin must satisfy the following requirements:
@@ -159,7 +159,7 @@ In this long-term project, you are required to design, implement, test, and depl
 
 ### Getting Started
 
-Please schedule an office hour with your client as soon as possible. After the initial meeting with the client, you need to create user stories, write out acceptance criteria, create GitHub issues, and populate your project board. Additionally, you need to create and set up your project's GitHub repository. These are the tasks of the first week. After the first week, you will engage in three sprints.
+Please schedule an office hour with your client as soon as possible. After the initial meeting with the client, you need to create user stories, write out acceptance criteria, create GitHub issues for specific requirements/tasks, and populate your project board. Additionally, you need to create and set up your project's GitHub repository. These are the tasks of the first week. After the first week, you will engage in three sprints.
 
 ## Assessment
 
