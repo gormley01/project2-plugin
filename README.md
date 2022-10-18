@@ -13,7 +13,7 @@
 
 ## Timeline
 
-- Sprint 1: October 25 - November 8
+- Sprint 1: October 26 - November 8
 - Sprint 2: November 8 - November 22
 - Sprint 3: November 22 - December 13
 - Final Presentations: December 13th
@@ -23,8 +23,8 @@
 
 Activity                             | Deadline
 ------------------------------------ | ---------------------------------------------------------------------
-User Stories & Requirements (issues) | by October 25th, 2022 at midnight
-Sprint 1 Planning                    | October 25th, 2022 at midnight
+User Stories & Requirements (issues) | by October 26th, 2022 at midnight
+Sprint 1 Planning                    | October 26th, 2022 at midnight
 Sprint 1 Stand-up meeting 1          | October 27th during class
 Sprint 1 Stand-up meeting 2          | November 1st during lab
 Sprint 1 Stand-up meeting 3          | November 3rd during class
