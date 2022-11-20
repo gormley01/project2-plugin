@@ -1,10 +1,11 @@
 # Report on Project 2 Sprint 1
 
-## Reflection by Add Your Team Names Here
+## Reflection by Jeff, Cole, Aiden, David
 
 ## Did you follow the code of conduct during the completion of this project?
 
-TODO: Please answer yes or no to this question. Then, every member needs to sign following the answer (separate commit from each team member).
+Yes, David
+
 
 ## Sprint Planning
 
